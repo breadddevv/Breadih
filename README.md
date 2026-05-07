@@ -1,7 +1,7 @@
 # hi, im bread <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 i'm a software engineer
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=breadddevv&theme=iceberg&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=EB545400)](https://git.io/streak-stats)
+<img src="https://github-readme.breaddevv.cc/api?username=breadddevv&show_icons=true&count_private=true&include_all_commits=true&custom_title=my%20stats&theme=transparent&hide_border=true" />
 
 i do stuff for the interwebs<br>
 "this thing is still broken as hell"
