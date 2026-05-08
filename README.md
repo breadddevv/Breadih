@@ -1,7 +1,7 @@
 # hi, im bread <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 i'm a software engineer
 
-<img src="https://github-readme.breaddevv.cc/api?username=breadddevv&show_icons=true&count_private=true&include_all_commits=true&custom_title=my%20stats&theme=transparent&hide_border=true" />
+![Stats](./profile/stats.svg)
 
 i do stuff for the interwebs<br>
 "this thing is still broken as hell"
