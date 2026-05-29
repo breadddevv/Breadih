@@ -4,11 +4,13 @@ i'm a software engineer
 ![Stats](./profile/stats.svg)
 
 i do stuff for the interwebs<br>
-"this thing is still broken as hell"
 
 ## contact
 
 <div align="center">
+  <a href="https://breaddevv.cc">
+    <img src="https://img.shields.io/badge/portfolio-2c3559?style=for-the-badge&logo=server">
+  </a>
   <a href="https://discord.com/users/90156252594927932">
     <img src="https://img.shields.io/badge/discord-bread__devv?style=for-the-badge&logo=discord&logoColor=white&color=505f96">
   </a>
