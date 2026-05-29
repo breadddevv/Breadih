@@ -6,8 +6,21 @@ i'm a software engineer
 i do stuff for the interwebs<br>
 "this thing is still broken as hell"
 
-## contact me
+## contact
+
 <div align="center">
-  <a href="https://discord.com/users/90156252594927932"><img src="https://img.shields.io/badge/discord-bread_devv?style=flat-square&logo=discord&logoColor=white&color=5865F2"></img></a>
-  <a href="mailto:tiagu.1789@gmail.com"><img src="https://img.shields.io/badge/mail_me-me?style=flat-square&logo=gmail&logoColor=black&color=ffbde9"></img></a>
+  <a href="https://discord.com/users/90156252594927932">
+    <img src="https://img.shields.io/badge/discord-bread__devv?style=for-the-badge&logo=discord&logoColor=white&color=505f96">
+  </a>
+  <a href="mailto:tiagu.1789@gmail.com">
+    <img src="https://img.shields.io/badge/email-contact?style=for-the-badge&logo=gmail&logoColor=white&color=2c3559">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <sub>
+    i code for fun.
+  </sub>
 </div>
