@@ -22,7 +22,6 @@ whether it's a SaaS dashboard, a Discord integration, an authentication system, 
 * 🤖 developing Discord integrations & automation
 * 🐧 daily driving Linux
 * 📚 constantly learning new technologies
-* ☕ surviving on caffeine and questionable sleep schedules
 
 ---
 
