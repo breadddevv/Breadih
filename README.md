@@ -135,15 +135,15 @@ Feedback web tool designed for product teams.
 
 <div align="center">
   <a href="https://breaddevv.cc">
-    <img src="https://img.shields.io/badge/portfolio-breaddevv.cc-2c3559?style=for-the-badge&logo=vercel">
+    <img src="https://img.shields.io/badge/portfolio-breaddevv.cc-191724?style=for-the-badge&logo=vercel&logoColor=f6c177&labelColor=21202e">
   </a>
 
   <a href="https://discord.com/users/90156252594927932">
-    <img src="https://img.shields.io/badge/discord-bread__devv-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/discord-bread__devv-191724?style=for-the-badge&logo=discord&logoColor=f6c177&labelColor=21202e">
   </a>
 
   <a href="mailto:tiagu.1789@gmail.com">
-    <img src="https://img.shields.io/badge/email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/email-contact-191724?style=for-the-badge&logo=gmail&logoColor=f6c177&labelColor=21202e">
   </a>
 </div>
 
