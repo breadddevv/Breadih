@@ -18,8 +18,8 @@ whether it's a SaaS dashboard, a Discord integration, an authentication system, 
 * 🚀 building products and internal tooling
 * 🏢 working on HR and management platforms
 * 🤖 developing Discord integrations & automation
-* 🐧 daily driving Linux
 * 📚 constantly learning new technologies
+* 📖 learning new things!
 
 ---
 
@@ -75,7 +75,7 @@ whether it's a SaaS dashboard, a Discord integration, an authentication system, 
 
 ### devops & infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-191724?style=for-the-badge\&logo=linux\&logoColor=black&logoColor=f6c177)
+![Linux](https://img.shields.io/badge/Linux-191724?style=for-the-badge\&logo=linux\&logoColor=f6c177)
 ![Docker](https://img.shields.io/badge/Docker-191724?style=for-the-badge\&logo=docker&logoColor=f6c177)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-191724?style=for-the-badge\&logo=docker&logoColor=f6c177)
 ![Nginx](https://img.shields.io/badge/Nginx-191724?style=for-the-badge\&logo=nginx&logoColor=f6c177)
@@ -109,13 +109,17 @@ whether it's a SaaS dashboard, a Discord integration, an authentication system, 
 
 ## featured work
 
-### Orbit
+### [Orbit](https://github.com/planetaryorbit/orbit)
 
 HR management platform focused on staffing, operations and community management.
 
-### Feedbase
+### [Feedbase](https://github.com/breadddevv/feedbase)
 
 Feedback web tool designed for product teams.
+
+### [Boostify](https://github.com/teamboostify/boostify)
+
+A Discord boosting management bot designed for servers who want an automated, modern, experience.
 
 ---
 
