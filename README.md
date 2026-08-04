@@ -2,6 +2,7 @@
 
 > full-stack software engineer from portugal 🇵🇹
 > building products, infrastructure and occasionally solving problems that shouldn't exist in the first place.
+>
 > https://breaddevv.cc
 
 i'm tiago, a full-stack developer passionate about turning ideas into real products.
