@@ -23,7 +23,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&text_color=f6c177&icon_color=eb6f92&title_color=eb6f92&hide_border=true&count_private=true&include_all_commits=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&text_color=f6c177&icon_color=eb6f92&title_color=eb6f92&ring_color=fafafa&hide_border=true&count_private=true&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.GH_TOKEN }}
 
@@ -39,5 +39,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Update README cards"
+          git commit -m "Updated README cards"
           git push origin HEAD:main
