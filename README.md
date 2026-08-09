@@ -75,7 +75,7 @@ if you need someone who can architect a backend *and* own the roadmap, that's th
 
 ### what people say
 
-> "Working with Tiago was an incredible experience. He consistently demonstrated an open mind and a strong willingness to learn more. Tiago approaches challenges with curiosity and professionalism, and he is always looking for ways to grow and improve. I would highly recommend him to any team looking for someone dedicated, adaptable, and eager to develop new skills." — **Olliebobsg**, Founder @ Neon Stores UK
+> "Tiago approaches challenges with curiosity and professionalism, and he is always looking for ways to grow and improve." — **Brennan Peters**, CEO @ Paddlewheel Inc.
 
 > "His expertise in coding, design, and problem-solving is impressive, and he approaches every challenge with professionalism, creativity, and attention to detail." — **2MillionGunGuy**, Director @ Monitry
 
